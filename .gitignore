@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+.pkl
+pickles/stock_data_processed.pkl
+pickles/scalers.pkl
