@@ -175,3 +175,4 @@ cython_debug/
 pickles/stock_data_processed.pkl
 pickles/scalers.pkl
 pickles/scaled_stock_data.pkl
+pickles/processed_data_full_2_1/*.npy
