@@ -11,7 +11,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn.parameter import Parameter
-import articles.mrnn_mlstm_experiment.review_classification.layers as layers
+import layers as layers
 
 
 class RNN(nn.Module):
